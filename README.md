@@ -6,3 +6,4 @@
 - Commit
 - Push / Pull
 - Branch
+- Merge (hotfix1 branch)
